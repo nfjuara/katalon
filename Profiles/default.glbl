@@ -4,14 +4,4 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'roma058a@gmail.com'</initValue>
-      <name>g_loginEmail</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'isabela123'</initValue>
-      <name>g_loginPassword</name>
-   </GlobalVariableEntity>
 </GlobalVariableEntities>
